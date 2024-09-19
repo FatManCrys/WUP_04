@@ -45,12 +45,6 @@ There is definitely a significant difference displayed within the boxplot as GRA
 
 
 
-```{r}
-boxplot(WORDSUM~DEGREE,data=GSScsv)
-```
-
-
-
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
