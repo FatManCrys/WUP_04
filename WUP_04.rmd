@@ -48,6 +48,14 @@ There is definitely a significant difference displayed within the boxplot as GRA
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(WORDSUM~DEGREE,data=GSScsv)
+```    
+
+
+
+GRADUATE has a 01 of 10 compared to the Q3 of LT HIGH SCHOOL is 8.25 and the Q9 of High school is & despite its high Numbers of 85 people. This is important since the number of people in HIGH SCHOOL is almost the combined number of all other DEGREE $ showing that there is great difference between these values.   
+
 
 ## Inferential Results
 
